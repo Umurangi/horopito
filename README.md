@@ -1,2 +1,2 @@
 # horopito
-an Attack Tree tool
+an attack tree tool for threat understanding
